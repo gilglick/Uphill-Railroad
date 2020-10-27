@@ -1,0 +1,12 @@
+All models inside the deprecated folder were previously used on previous versions of the asset and are not being
+used anymore in the current version. 
+
+This models were replaced by new and better models. 
+
+However, for the sake of supporting legacy projects that may eventually have being developed using previous versions of the asset, these models were kept in this folder.
+
+I strongly recomend using the new models.
+
+Feel free to use any legacy models in your project if you wish so. However, keep in mind that legacy models were deprecated and will not be updated on future versions of the asset.
+
+If you have any questions, feel free to message me at: wsmgamestudio@gmail.com

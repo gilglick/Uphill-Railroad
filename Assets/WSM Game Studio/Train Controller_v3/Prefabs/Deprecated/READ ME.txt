@@ -1,0 +1,12 @@
+All prefabs inside the deprecated folder were previously used on previous versions of the asset and are not being
+used anymore in the current version. 
+
+This prefabs were replaced by new and better prefabs and/or features. 
+
+However, for the sake of supporting legacy projects that may eventually have being developed using previous versions of the asset, these prefabs were kept in this folder.
+
+I strongly recomend using the new locomotive prefabs and the new railroad builder instead of using the old railroad segments.
+
+Feel free to use any legacy prefab in your project if you wish so. However, keep in mind that legacy prefabs were deprecated and will not be updated on future versions of the asset.
+
+If you have any questions, feel free to message me at: wsmgamestudio@gmail.com
